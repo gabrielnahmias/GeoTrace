@@ -1,0 +1,1713 @@
+0 183596 WPS_version [INFO] 4.7.0.11 ($Rev: 11200 $)
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] resetting power managers
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] user period was updated from 7667823 to 1000
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] resetting power managers
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 116 to 2147483647
+16 144668 WPS.API.Registration [DEBUG] empty authentication passed
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] resetting power managers
+16 144668 WPS.API.Registration [DEBUG] empty authentication passed
+16 144668 WPS.API.PeriodicRemoteLocation [DEBUG] clearing unauthorized timer
+16 144668 WPS.API.XPSSwitchingAlgorithm [INFO] $Rev: 11155 $
+16 144668 WPS.API.LocationDeterminationLocal [INFO] tiling is disabled (no authentication)
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] user period was updated from 1000 to 500
+16 144668 WPS.API.GeoFencing [DEBUG] user period was updated
+16 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 2147483647 to 4294967295
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+16 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+16 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+16 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+16 144668 WPS.SPI.Win32WifiAdapter.enumerateAdapters [DEBUG] running on Windows 6.1.7601 Service Pack 1.0 Platform 2 (S)
+16 144668 WPS.SPI.Win32WifiAdapter.enumerateAdapters [DEBUG] using WLANAPI
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.WlanapiSession [INFO] version of WLANAPI is 2.0
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.WlanapiSession [DEBUG] WLANAPI successfully opened
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.new [DEBUG] found 1 interface(s)
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.new [DEBUG] interface {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: Intel(R) Centrino(R) Wireless-N 1030
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.WlanapiPowerManager [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: found 2 phys
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.WlanapiPowerManager [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}/0: hardware radio is on
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.WlanapiPowerManager [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}/0: software radio is on
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.WlanapiPowerManager [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}/1: hardware radio is on
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter.WlanapiPowerManager [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}/1: software radio is on
+16 144668 WPS.API.WifiAdapterWrapper [INFO] opened Wi-Fi adapter Intel(R) Centrino(R) Wireless-N 1030
+16 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+16 144668 WPS.SPI.Win32GPSAdapter [DEBUG] looking for Broadcom GPS
+16 144668 XPS.BroadcomDetection [DEBUG] couldn't open Gpsct key (2)
+16 144668 WPS.SPI.Win32GPSAdapter [DEBUG] Broadcom GPS not found
+16 144668 WPS.SPI.Win32GPSAdapter [DEBUG] trying Gobi
+16 144668 Win32GPSAdapter::newGobiGPSAdapter [ERROR] Gobi API is not available
+16 144668 WPS.SPI.Win32GPSAdapter [DEBUG] trying Novatel
+16 144668 WPS.SPI.NovatelGPSAdapter.NvtlCommonSession [DEBUG] creating session
+16 144668 WPS.SPI.NovatelGPSAdapter.NvtlCommonSession [ERROR] Novatel SDK API is not available
+16 144668 WPS.SPI.Win32GPSAdapter [DEBUG] start looking for a generic NMEA COM port
+16 144668 WPS.API.GPSAdapterWrapper [INFO] opened GPS adapter Win32GPSAdapter
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+16 144668 WPS.API.AccelerometerAdapterWrapper [WARN] couldn't find any accelerometer adapter
+16 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+16 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 0: 
+16 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 0: 
+16 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 0: 
+16 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+16 144668 WPS_periodic_scan [DEBUG] elapsed = 0, duration = 10000
+16 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -40 (elapsed was 0)
+16 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: 0
+16 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+16 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+16 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+16 144668 WPS_periodic_scan [DEBUG] sleeping for 120 ms...
+16 143552 WPS.SPI.Win32GPSAdapter [DEBUG] about to scan ports 
+140 144668 WPS_periodic_scan [DEBUG] timeout expired
+140 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+140 144668 WPS_periodic_scan [DEBUG] it is time to sample
+140 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+140 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+140 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+140 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+140 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 0: 
+140 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 0: 
+140 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 0: 
+140 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+140 144668 WPS_periodic_scan [DEBUG] elapsed = 124, duration = 10000
+140 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 4 (elapsed was 84)
+140 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+140 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+140 144668 WPS_periodic_scan [DEBUG] sleeping for 156 ms...
+296 144668 WPS_periodic_scan [DEBUG] timeout expired
+296 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+296 144668 WPS_periodic_scan [DEBUG] it is time to sample
+296 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+296 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+296 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+296 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+296 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 0: 
+296 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 0: 
+296 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 0: 
+296 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+296 144668 WPS_periodic_scan [DEBUG] elapsed = 280, duration = 10000
+296 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 0 (elapsed was 160)
+296 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+296 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+296 144668 WPS_periodic_scan [DEBUG] sleeping for 320 ms...
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 6
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -78 465ms (129987976015608869 27938712960)
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -89 534ms (129987976014918830 1325684646668)
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -79 461ms (129987976015648872 804123206421)
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -90 514ms (129987976015118841 2433786778171)
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -87 532ms (129987976014938831 1325684648951)
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 20E564062470 (ATT760) n (ht) -91 448ms (129987976015778879 2708173187)
+562 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 6
+562 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+608 144668 WPS_periodic_scan [DEBUG] timeout expired
+608 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+608 144668 WPS_periodic_scan [DEBUG] it is time to sample
+608 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+608 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+608 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+608 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+608 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 6: A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; 90B1349F56B0,-79,870621494; 00120E75E3C8,-90,870621441; C0C1C0C0C308,-87,870621423; 20E564062470,-91,870621507
+608 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 6: 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+608 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 6: 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+608 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+608 144668 WPS_periodic_scan [DEBUG] elapsed = 592, duration = 10000
+608 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 1
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 1
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 6: 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] entering one shot mode
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 1, 1 scans completed)
+608 144668 WPS.API.MeasurementCache [DEBUG] searching...
+608 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+608 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+608 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+608 144668 WPS.API.MeasurementCache [DEBUG] search failed
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 0 scans completed
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+608 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+608 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 6 APs (new): 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+608 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+608 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+608 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+608 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+608 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+608 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+608 144668 WPS.API.ScanObservation [DEBUG] not enough power samples (0) in history
+608 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+608 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 6 aps scanned, 6 aps remained after filtering
+608 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+608 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+608 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+608 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 6, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+608 144668 WPS.API.TrackingPowerManager [DEBUG] updateOnlyWifiOn
+608 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 1000ms, gps needed = 0
+608 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] starting a new request. The number of outstanding requests is 1
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] remote async response received: code=4 age=0 iteration=1 scansCompleted=1
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 1 requests completed, 1 scans completed
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] saving that we are unauthorized
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] setting unauthorized timer
+608 144668 WPS.API.MeasurementCache [DEBUG] trying to add location to cache with scanned 6-AP/0-cell
+608 144668 WPS.API.MeasurementCache [DEBUG] not adding location to cache because of error: 4
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] saving new remote result because no previous one
+608 144668 WPS.API.PeriodicRemoteLocation [DEBUG] remote location callback was invoked immediately
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] 0 ms elapsed, 0 scans completed in one shot mode
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+608 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+608 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [1] against last reported iteration [-1] and last reported cell-only iteration [-1]
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+608 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 592
+608 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -8 (elapsed was 312)
+608 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -92
+608 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+608 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+608 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+608 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+608 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+608 144668 WPS_periodic_scan [DEBUG] sleeping for 508 ms...
+1014 143552 WPS.SPI.Win32GPSAdapter [INFO] no GPS detected
+1123 144668 WPS_periodic_scan [DEBUG] timeout expired
+1123 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+1123 144668 WPS_periodic_scan [DEBUG] it is time to sample
+1123 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+1123 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+1123 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+1123 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 1107ms
+1123 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+1123 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 6: A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; 90B1349F56B0,-79,870621494; 00120E75E3C8,-90,870621441; C0C1C0C0C308,-87,870621423; 20E564062470,-91,870621507
+1123 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 6: 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+1123 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 6: 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+1123 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+1123 144668 WPS_periodic_scan [DEBUG] elapsed = 1107, duration = 10000
+1123 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 2
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 1
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 6: 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+1123 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 2, 1 scans completed)
+1123 144668 WPS.API.MeasurementCache [DEBUG] searching...
+1123 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+1123 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+1123 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+1123 144668 WPS.API.MeasurementCache [DEBUG] search failed
+1123 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+1123 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+1123 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 1 scans completed
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+1123 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+1123 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 6 APs (cached): 00120E75E3C8,-90,870621441; 20E564062470,-91,870621507; 90B1349F56B0,-79,870621494; A021B7B5F988,-78,870621490; C0C1C0C0C307,-89,870621421; C0C1C0C0C308,-87,870621423
+1123 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+1123 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+1123 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+1123 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+1123 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+1123 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+1123 144668 WPS.API.ScanObservation [DEBUG] not enough power samples (0) in history
+1123 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+1123 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 6 aps scanned, 0 aps remained after filtering
+1123 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+1123 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+1123 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+1123 144668 WPS.API.TrackingPowerManager [DEBUG] updateOnlyWifiOn
+1123 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 1000ms, gps needed = 0
+1123 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] 515 ms elapsed, 1 scans completed in one shot mode
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+1123 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+1123 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [2] against last reported iteration [-1] and last reported cell-only iteration [-1]
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+1123 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 515
+1123 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 7 (elapsed was 507)
+1123 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+1123 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+1123 144668 WPS_periodic_scan [DEBUG] sleeping for 493 ms...
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 7
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -80 460ms (129987976021629214 804123804746)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -80 337ms (129987976022859284 27939437952)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -88 477ms (129987976021459204 1325685300095)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -92 515ms (129987976021079182 2433787374085)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -89 536ms (129987976020869170 1325685242106)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 982CBE310BD1 (2WIRE030) g (erp) -90 526ms (129987976020969176 489670758785)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00183A442F81 () g (erp) -90 505ms (129987976021179188 345183642190)
+1170 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 7
+1170 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+1607 144668 WPS_periodic_scan [DEBUG] timeout expired
+1607 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+1607 144668 WPS_periodic_scan [DEBUG] it is time to sample
+1607 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+1607 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+1607 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+1607 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 1591ms
+1607 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+1607 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 90B1349F56B0,-80,870622103; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; 00120E75E3C8,-92,870622048; C0C1C0C0C308,-89,870622027; 982CBE310BD1,-90,870622037; 00183A442F81,-90,870622058
+1607 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+1607 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+1607 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+1607 144668 WPS_periodic_scan [DEBUG] elapsed = 1591, duration = 10000
+1607 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 3
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 2
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 8: 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+1607 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 3, 2 scans completed)
+1607 144668 WPS.API.MeasurementCache [DEBUG] searching...
+1607 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+1607 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+1607 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+1607 144668 WPS.API.MeasurementCache [DEBUG] search failed
+1607 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+1607 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+1607 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+1607 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 1 scans completed
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+1607 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+1607 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 8 APs (new): 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+1607 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+1607 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+1607 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+1607 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+1607 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+1607 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+1607 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+1607 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 8 aps scanned, 7 aps remained after filtering
+1607 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+1607 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+1607 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+1607 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 7, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+1607 144668 WPS.API.TrackingPowerManager [DEBUG] updateOnlyWifiOn
+1607 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 1000ms, gps needed = 0
+1607 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+1607 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+1607 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] 999 ms elapsed, 1 scans completed in one shot mode
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+1607 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+1607 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [3] against last reported iteration [-1] and last reported cell-only iteration [-1]
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 484
+1607 144668 WPS.API.PeriodicLocationCallback [DEBUG] not passing error to user before a period elapsed
+1607 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -9 (elapsed was 491)
+1607 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -91
+1607 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+1607 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+1607 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+1607 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+1607 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+1607 144668 WPS_periodic_scan [DEBUG] sleeping for 509 ms...
+2122 144668 WPS_periodic_scan [DEBUG] timeout expired
+2122 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+2122 144668 WPS_periodic_scan [DEBUG] it is time to sample
+2122 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+2122 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+2122 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+2122 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 2106ms
+2122 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+2122 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 90B1349F56B0,-80,870622103; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; 00120E75E3C8,-92,870622048; C0C1C0C0C308,-89,870622027; 982CBE310BD1,-90,870622037; 00183A442F81,-90,870622058
+2122 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+2122 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+2122 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+2122 144668 WPS_periodic_scan [DEBUG] elapsed = 2106, duration = 10000
+2122 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 4
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 2
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 8: 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+2122 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 4, 2 scans completed)
+2122 144668 WPS.API.MeasurementCache [DEBUG] searching...
+2122 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+2122 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+2122 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+2122 144668 WPS.API.MeasurementCache [DEBUG] search failed
+2122 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+2122 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+2122 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 2 scans completed
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+2122 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+2122 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 8 APs (cached): 00120E75E3C8,-92,870622048; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-80,870622103; 982CBE310BD1,-90,870622037; A021B7B5F988,-80,870622226; C0C1C0C0C307,-88,870622086; C0C1C0C0C308,-89,870622027
+2122 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+2122 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+2122 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+2122 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+2122 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+2122 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+2122 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+2122 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 8 aps scanned, 0 aps remained after filtering
+2122 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+2122 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+2122 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+2122 144668 WPS.API.TrackingPowerManager [DEBUG] updateOnlyWifiOn
+2122 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 1000ms, gps needed = 0
+2122 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] 1514 ms elapsed, 2 scans completed in one shot mode
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+2122 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+2122 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [4] against last reported iteration [-1] and last reported cell-only iteration [-1]
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+2122 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 999
+2122 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 6 (elapsed was 506)
+2122 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+2122 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+2122 144668 WPS_periodic_scan [DEBUG] sleeping for 494 ms...
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 7
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E23DC17 (WEST8365) g (erp) -89 506ms (129987976031149758 726405256179)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -90 514ms (129987976031069754 2433788372992)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -77 482ms (129987976031389772 27940201601)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -86 531ms (129987976030899744 1325686245101)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 982CBE310BD1 (2WIRE030) g (erp) -90 542ms (129987976030789738 979343326881)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -88 533ms (129987976030879743 1325686242818)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -81 457ms (129987976031639786 804124805603)
+2168 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 7
+2168 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+2621 144668 WPS_periodic_scan [DEBUG] timeout expired
+2621 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+2621 144668 WPS_periodic_scan [DEBUG] it is time to sample
+2621 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+2621 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+2621 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+2621 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 2605ms
+2621 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+2621 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; A021B7B5F988,-77,870623079; C0C1C0C0C308,-86,870623030; 982CBE310BD1,-90,870623019; C0C1C0C0C307,-88,870623028; 90B1349F56B0,-81,870623104
+2621 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+2621 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+2621 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+2621 144668 WPS_periodic_scan [DEBUG] elapsed = 2605, duration = 10000
+2621 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 5
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 3
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 9: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+2621 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 5, 3 scans completed)
+2621 144668 WPS.API.MeasurementCache [DEBUG] searching...
+2621 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+2621 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+2621 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+2621 144668 WPS.API.MeasurementCache [DEBUG] search failed
+2621 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+2621 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+2621 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+2621 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 2 scans completed
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+2621 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+2621 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 9 APs (new): 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+2621 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+2621 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+2621 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+2621 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+2621 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+2621 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+2621 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+2621 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 9 aps scanned, 7 aps remained after filtering
+2621 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+2621 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+2621 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+2621 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 7, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+2621 144668 WPS.API.TrackingPowerManager [DEBUG] updateOnlyWifiOn
+2621 144668 WPS.API.TrackingPowerManager [DEBUG] performing one time start-up checks
+2621 144668 WPS.API.TrackingPowerManager [DEBUG] num scans = 3, average APs = 7, average HPE = 450
+2621 144668 WPS.API.TrackingPowerManager [DEBUG] turning gps on from one time start-up checks
+2621 144668 WPS.API.TrackingPowerManager [INFO] turning gps on
+2621 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 1000ms, gps needed = 1
+2621 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+2621 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+2621 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] 2013 ms elapsed, 2 scans completed in one shot mode
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+2621 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+2621 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [5] against last reported iteration [-1] and last reported cell-only iteration [-1]
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 499
+2621 144668 WPS.API.PeriodicLocationCallback [DEBUG] not passing error to user before a period elapsed
+2621 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 5 (elapsed was 505)
+2621 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -105
+2621 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+2621 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+2621 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+2621 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+2621 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+2621 144668 WPS_periodic_scan [DEBUG] sleeping for 495 ms...
+3104 144668 WPS_periodic_scan [DEBUG] timeout expired
+3104 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+3104 144668 WPS_periodic_scan [DEBUG] it is time to sample
+3104 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+3104 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+3104 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+3104 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 3088ms
+3104 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+3104 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; A021B7B5F988,-77,870623079; C0C1C0C0C308,-86,870623030; 982CBE310BD1,-90,870623019; C0C1C0C0C307,-88,870623028; 90B1349F56B0,-81,870623104
+3104 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+3104 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+3104 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+3104 144668 WPS_periodic_scan [DEBUG] elapsed = 3088, duration = 10000
+3104 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 6
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 3
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 9: 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+3104 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 6, 3 scans completed)
+3104 144668 WPS.API.MeasurementCache [DEBUG] searching...
+3104 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+3104 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+3104 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+3104 144668 WPS.API.MeasurementCache [DEBUG] search failed
+3104 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+3104 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+3104 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 3 scans completed
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+3104 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+3104 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 9 APs (cached): 00120E23DC17,-89,870623055; 00120E75E3C8,-90,870623047; 00183A442F81,-90,870622058; 20E564062470,-91,870621507; 90B1349F56B0,-81,870623104; 982CBE310BD1,-90,870623019; A021B7B5F988,-77,870623079; C0C1C0C0C307,-88,870623028; C0C1C0C0C308,-86,870623030
+3104 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+3104 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+3104 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+3104 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+3104 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+3104 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+3104 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+3104 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 9 aps scanned, 0 aps remained after filtering
+3104 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+3104 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+3104 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+3104 144668 WPS.API.TrackingPowerManager [DEBUG] gps state changed from isFix = 0, isGood = 0 to isFix = 0, isGood = 0
+3104 144668 WPS.API.TrackingPowerManager [DEBUG] saving current time for no-fix since there is no previous fix
+3104 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+3104 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 1000ms, gps needed = 1
+3104 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] 2496 ms elapsed, 3 scans completed in one shot mode
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+3104 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+3104 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [6] against last reported iteration [-1] and last reported cell-only iteration [-1]
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+3104 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 982
+3104 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -12 (elapsed was 488)
+3104 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+3104 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+3104 144668 WPS_periodic_scan [DEBUG] sleeping for 512 ms...
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 7
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 08863B28803C (tatertot kasseroll) n (ht) -83 529ms (129987976040960319 7204778906041)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -88 538ms (129987976040870314 1325687241738)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -87 536ms (129987976040890315 1325687244021)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00183A442F82 () g (erp) -90 502ms (129987976041230335 2433789440591)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -78 483ms (129987976041420346 27941204880)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -81 458ms (129987976041670360 804125809023)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -92 515ms (129987976041100327 2433789376285)
+3167 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 7
+3167 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+3619 144668 WPS_periodic_scan [DEBUG] timeout expired
+3619 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+3619 144668 WPS_periodic_scan [DEBUG] it is time to sample
+3619 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+3619 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+3619 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+3619 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 3603ms
+3619 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+3619 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 08863B28803C,-83,870624031; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024; 00183A442F82,-90,870624058; A021B7B5F988,-78,870624077; 90B1349F56B0,-81,870624102; 00120E75E3C8,-92,870624045
+3619 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E75E3C8,-92,870624045; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 90B1349F56B0,-81,870624102; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+3619 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E75E3C8,-92,870624045; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 90B1349F56B0,-81,870624102; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+3619 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+3619 144668 WPS_periodic_scan [DEBUG] elapsed = 3603, duration = 10000
+3619 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 7
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 4
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 11: 00120E23DC17,-89,870623055; 00120E75E3C8,-92,870624045; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 20E564062470,-91,870621507; 90B1349F56B0,-81,870624102; 982CBE310BD1,-90,870623019; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+3619 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 7, 4 scans completed)
+3619 144668 WPS.API.MeasurementCache [DEBUG] searching...
+3619 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+3619 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+3619 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+3619 144668 WPS.API.MeasurementCache [DEBUG] search failed
+3619 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+3619 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+3619 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+3619 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 3 scans completed
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+3619 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+3619 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 11 APs (new): 00120E23DC17,-89,870623055; 00120E75E3C8,-92,870624045; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 20E564062470,-91,870621507; 90B1349F56B0,-81,870624102; 982CBE310BD1,-90,870623019; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+3619 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+3619 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+3619 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+3619 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+3619 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+3619 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+3619 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+3619 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 11 aps scanned, 7 aps remained after filtering
+3619 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+3619 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+3619 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+3619 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 7, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+3619 144668 WPS.API.TrackingPowerManager [DEBUG] changing to user period after fast scan is complete
+3619 144668 WPS.API.TrackingPowerManager [INFO] changing wifi period from 1000 to <user period>
+3619 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+3619 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+3619 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+3619 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+3619 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] 3011 ms elapsed, 3 scans completed in one shot mode
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+3619 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+3619 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [7] against last reported iteration [-1] and last reported cell-only iteration [-1]
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+3619 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 515
+3619 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 3 (elapsed was 503)
+3619 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -103
+3619 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+3619 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+3619 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+3619 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+3619 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+3619 144668 WPS_periodic_scan [DEBUG] sleeping for 497 ms...
+4118 144668 WPS_periodic_scan [DEBUG] timeout expired
+4118 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+4118 144668 WPS_periodic_scan [DEBUG] it is time to sample
+4118 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+4118 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+4118 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+4118 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 4102ms
+4118 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+4118 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 08863B28803C,-83,870624031; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024; 00183A442F82,-90,870624058; A021B7B5F988,-78,870624077; 90B1349F56B0,-81,870624102; 00120E75E3C8,-92,870624045
+4118 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E75E3C8,-92,870624045; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 90B1349F56B0,-81,870624102; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+4118 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E75E3C8,-92,870624045; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 90B1349F56B0,-81,870624102; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+4118 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+4118 144668 WPS_periodic_scan [DEBUG] elapsed = 4102, duration = 10000
+4118 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 8
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 4
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 11: 00120E23DC17,-89,870623055; 00120E75E3C8,-92,870624045; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 20E564062470,-91,870621507; 90B1349F56B0,-81,870624102; 982CBE310BD1,-90,870623019; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+4118 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 8, 4 scans completed)
+4118 144668 WPS.API.MeasurementCache [DEBUG] searching...
+4118 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+4118 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+4118 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+4118 144668 WPS.API.MeasurementCache [DEBUG] search failed
+4118 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+4118 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+4118 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 4 scans completed
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+4118 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+4118 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 11 APs (cached): 00120E23DC17,-89,870623055; 00120E75E3C8,-92,870624045; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-83,870624031; 20E564062470,-91,870621507; 90B1349F56B0,-81,870624102; 982CBE310BD1,-90,870623019; A021B7B5F988,-78,870624077; C0C1C0C0C307,-88,870624022; C0C1C0C0C308,-87,870624024
+4118 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+4118 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+4118 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+4118 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+4118 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+4118 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+4118 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+4118 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 11 aps scanned, 0 aps remained after filtering
+4118 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+4118 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+4118 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+4118 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+4118 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+4118 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] 3510 ms elapsed, 4 scans completed in one shot mode
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+4118 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+4118 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [8] against last reported iteration [-1] and last reported cell-only iteration [-1]
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 499
+4118 144668 WPS.API.PeriodicLocationCallback [DEBUG] not passing error to user before a period elapsed
+4118 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 2 (elapsed was 502)
+4118 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+4118 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+4118 144668 WPS_periodic_scan [DEBUG] sleeping for 498 ms...
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 7
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -90 515ms (129987976051180904 2433790384199)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -88 538ms (129987976050950891 1325688249923)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E23DC17 (WEST8365) g (erp) -90 506ms (129987976051270909 726407270826)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -83 452ms (129987976051810940 804126823050)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 08863B28803C (tatertot kasseroll) n (ht) -85 309ms (129987976053241022 7204780134852)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -79 480ms (129987976051530924 27942215783)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -89 536ms (129987976050970892 1325688252206)
+4181 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 7
+4181 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+4618 144668 WPS_periodic_scan [DEBUG] timeout expired
+4618 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+4618 144668 WPS_periodic_scan [DEBUG] it is time to sample
+4618 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+4618 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+4618 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+4618 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 4602ms
+4618 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+4618 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 00120E75E3C8,-90,870625059; C0C1C0C0C307,-88,870625036; 00120E23DC17,-90,870625068; 90B1349F56B0,-83,870625122; 08863B28803C,-85,870625265; A021B7B5F988,-79,870625094; C0C1C0C0C308,-89,870625038
+4618 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 08863B28803C,-85,870625265; 90B1349F56B0,-83,870625122; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+4618 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 08863B28803C,-85,870625265; 90B1349F56B0,-83,870625122; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+4618 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+4618 144668 WPS_periodic_scan [DEBUG] elapsed = 4602, duration = 10000
+4618 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 9
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 5
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 11: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-91,870621507; 90B1349F56B0,-83,870625122; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+4618 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 9, 5 scans completed)
+4618 144668 WPS.API.MeasurementCache [DEBUG] searching...
+4618 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+4618 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+4618 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+4618 144668 WPS.API.MeasurementCache [DEBUG] search failed
+4618 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+4618 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+4618 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+4618 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 4 scans completed
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+4618 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+4618 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 11 APs (new): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-91,870621507; 90B1349F56B0,-83,870625122; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+4618 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+4618 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+4618 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+4618 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+4618 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+4618 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+4618 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+4618 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 11 aps scanned, 7 aps remained after filtering
+4618 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+4618 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+4618 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+4618 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 7, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+4618 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+4618 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+4618 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+4618 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+4618 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] 4010 ms elapsed, 4 scans completed in one shot mode
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+4618 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+4618 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [9] against last reported iteration [-1] and last reported cell-only iteration [-1]
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+4618 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 999
+4618 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 2 (elapsed was 502)
+4618 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -102
+4618 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+4618 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+4618 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+4618 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+4618 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+4618 144668 WPS_periodic_scan [DEBUG] sleeping for 498 ms...
+5117 144668 WPS_periodic_scan [DEBUG] timeout expired
+5117 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+5117 144668 WPS_periodic_scan [DEBUG] it is time to sample
+5117 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+5117 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+5117 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+5117 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 5101ms
+5117 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+5117 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 7: 00120E75E3C8,-90,870625059; C0C1C0C0C307,-88,870625036; 00120E23DC17,-90,870625068; 90B1349F56B0,-83,870625122; 08863B28803C,-85,870625265; A021B7B5F988,-79,870625094; C0C1C0C0C308,-89,870625038
+5117 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 7: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 08863B28803C,-85,870625265; 90B1349F56B0,-83,870625122; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+5117 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 7: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 08863B28803C,-85,870625265; 90B1349F56B0,-83,870625122; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+5117 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+5117 144668 WPS_periodic_scan [DEBUG] elapsed = 5101, duration = 10000
+5117 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 10
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 5
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 10: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 90B1349F56B0,-83,870625122; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+5117 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 10, 5 scans completed)
+5117 144668 WPS.API.MeasurementCache [DEBUG] searching...
+5117 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+5117 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+5117 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+5117 144668 WPS.API.MeasurementCache [DEBUG] search failed
+5117 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+5117 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+5117 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 5 scans completed
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+5117 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+5117 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 10 APs (cached): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870625059; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 90B1349F56B0,-83,870625122; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870625094; C0C1C0C0C307,-88,870625036; C0C1C0C0C308,-89,870625038
+5117 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+5117 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+5117 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+5117 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+5117 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+5117 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+5117 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+5117 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 10 aps scanned, 0 aps remained after filtering
+5117 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+5117 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+5117 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+5117 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+5117 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+5117 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] 4509 ms elapsed, 5 scans completed in one shot mode
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+5117 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+5117 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [10] against last reported iteration [-1] and last reported cell-only iteration [-1]
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 499
+5117 144668 WPS.API.PeriodicLocationCallback [DEBUG] not passing error to user before a period elapsed
+5117 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 1 (elapsed was 501)
+5117 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+5117 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+5117 144668 WPS_periodic_scan [DEBUG] sleeping for 499 ms...
+5164 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 6
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -90 510ms (129987976061201477 2433791386171)
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -79 351ms (129987976062791568 27943431552)
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 20E564062470 (ATT760) n (ht) -89 444ms (129987976061861515 2712781411)
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -89 536ms (129987976060941462 1325689248989)
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -87 538ms (129987976060921461 1325689246705)
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -83 221ms (129987976064091642 804128051587)
+5179 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 6
+5179 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+5616 144668 WPS_periodic_scan [DEBUG] timeout expired
+5616 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+5616 144668 WPS_periodic_scan [DEBUG] it is time to sample
+5616 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+5616 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+5616 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+5616 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 5600ms
+5616 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+5616 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 6: 00120E75E3C8,-90,870626062; A021B7B5F988,-79,870626221; 20E564062470,-89,870626128; C0C1C0C0C308,-89,870626036; C0C1C0C0C307,-87,870626034; 90B1349F56B0,-83,870626351
+5616 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 6: 00120E75E3C8,-90,870626062; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+5616 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 6: 00120E75E3C8,-90,870626062; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+5616 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+5616 144668 WPS_periodic_scan [DEBUG] elapsed = 5600, duration = 10000
+5616 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 11
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 6
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 11: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870626062; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+5616 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 11, 6 scans completed)
+5616 144668 WPS.API.MeasurementCache [DEBUG] searching...
+5616 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+5616 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+5616 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+5616 144668 WPS.API.MeasurementCache [DEBUG] search failed
+5616 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+5616 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+5616 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+5616 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 5 scans completed
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+5616 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+5616 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 11 APs (new): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870626062; 00183A442F81,-90,870622058; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+5616 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+5616 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+5616 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+5616 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+5616 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+5616 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+5616 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+5616 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 11 aps scanned, 6 aps remained after filtering
+5616 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+5616 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+5616 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+5616 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 6, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+5616 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+5616 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+5616 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+5616 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+5616 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] 5008 ms elapsed, 5 scans completed in one shot mode
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+5616 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+5616 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [11] against last reported iteration [-1] and last reported cell-only iteration [-1]
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+5616 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 998
+5616 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 0 (elapsed was 500)
+5616 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -100
+5616 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+5616 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+5616 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+5616 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+5616 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+5616 144668 WPS_periodic_scan [DEBUG] sleeping for 500 ms...
+6115 144668 WPS_periodic_scan [DEBUG] timeout expired
+6115 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+6115 144668 WPS_periodic_scan [DEBUG] it is time to sample
+6115 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+6115 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+6115 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+6115 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 6099ms
+6115 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+6115 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 6: 00120E75E3C8,-90,870626062; A021B7B5F988,-79,870626221; 20E564062470,-89,870626128; C0C1C0C0C308,-89,870626036; C0C1C0C0C307,-87,870626034; 90B1349F56B0,-83,870626351
+6115 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 6: 00120E75E3C8,-90,870626062; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+6115 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 6: 00120E75E3C8,-90,870626062; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+6115 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+6115 144668 WPS_periodic_scan [DEBUG] elapsed = 6099, duration = 10000
+6115 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 12
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 6
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 10: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870626062; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+6115 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 12, 6 scans completed)
+6115 144668 WPS.API.MeasurementCache [DEBUG] searching...
+6115 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+6115 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+6115 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+6115 144668 WPS.API.MeasurementCache [DEBUG] search failed
+6115 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+6115 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+6115 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 6 scans completed
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+6115 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+6115 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 10 APs (cached): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870626062; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870626351; 982CBE310BD1,-90,870623019; A021B7B5F988,-79,870626221; C0C1C0C0C307,-87,870626034; C0C1C0C0C308,-89,870626036
+6115 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+6115 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+6115 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+6115 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+6115 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+6115 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+6115 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+6115 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 10 aps scanned, 0 aps remained after filtering
+6115 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+6115 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+6115 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+6115 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+6115 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+6115 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] 5507 ms elapsed, 6 scans completed in one shot mode
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+6115 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+6115 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [12] against last reported iteration [-1] and last reported cell-only iteration [-1]
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 499
+6115 144668 WPS.API.PeriodicLocationCallback [DEBUG] not passing error to user before a period elapsed
+6115 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -1 (elapsed was 499)
+6115 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+6115 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+6115 144668 WPS_periodic_scan [DEBUG] sleeping for 501 ms...
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 5
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -84 461ms (129987976071672076 804128808853)
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -78 329ms (129987976072992152 27944451456)
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -90 544ms (129987976070842029 1325690238957)
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -90 516ms (129987976071122045 2433792378476)
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -88 542ms (129987976070862030 1325690241240)
+6178 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 5
+6178 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+6614 144668 WPS_periodic_scan [DEBUG] timeout expired
+6614 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+6614 144668 WPS_periodic_scan [DEBUG] it is time to sample
+6614 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+6614 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+6614 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+6614 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 6598ms
+6614 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+6614 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 5: 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; 00120E75E3C8,-90,870627055; C0C1C0C0C308,-88,870627029
+6614 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 5: 00120E75E3C8,-90,870627055; 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+6614 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 5: 00120E75E3C8,-90,870627055; 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+6614 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+6614 144668 WPS_periodic_scan [DEBUG] elapsed = 6598, duration = 10000
+6614 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 13
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 7
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 10: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870627055; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-84,870627110; 982CBE310BD1,-90,870623019; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+6614 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 13, 7 scans completed)
+6614 144668 WPS.API.MeasurementCache [DEBUG] searching...
+6614 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+6614 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+6614 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+6614 144668 WPS.API.MeasurementCache [DEBUG] search failed
+6614 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+6614 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+6614 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+6614 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 6 scans completed
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+6614 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+6614 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 10 APs (new): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870627055; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-84,870627110; 982CBE310BD1,-90,870623019; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+6614 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+6614 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+6614 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+6614 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+6614 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+6614 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+6614 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+6614 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 10 aps scanned, 5 aps remained after filtering
+6614 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+6614 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+6614 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+6614 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 5, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+6614 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+6614 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+6614 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+6614 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+6614 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] 6006 ms elapsed, 6 scans completed in one shot mode
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+6614 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+6614 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [13] against last reported iteration [-1] and last reported cell-only iteration [-1]
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+6614 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 998
+6614 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -2 (elapsed was 498)
+6614 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -98
+6614 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+6614 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+6614 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+6614 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+6614 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+6614 144668 WPS_periodic_scan [DEBUG] sleeping for 502 ms...
+7114 144668 WPS_periodic_scan [DEBUG] timeout expired
+7114 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+7114 144668 WPS_periodic_scan [DEBUG] it is time to sample
+7114 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+7114 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+7114 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+7114 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 7098ms
+7114 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+7114 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 5: 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; 00120E75E3C8,-90,870627055; C0C1C0C0C308,-88,870627029
+7114 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 5: 00120E75E3C8,-90,870627055; 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+7114 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 5: 00120E75E3C8,-90,870627055; 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+7114 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+7114 144668 WPS_periodic_scan [DEBUG] elapsed = 7098, duration = 10000
+7114 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 14
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 7
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 9: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870627055; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+7114 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 14, 7 scans completed)
+7114 144668 WPS.API.MeasurementCache [DEBUG] searching...
+7114 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+7114 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+7114 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+7114 144668 WPS.API.MeasurementCache [DEBUG] search failed
+7114 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+7114 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+7114 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 7 scans completed
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+7114 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+7114 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 9 APs (cached): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870627055; 00183A442F82,-90,870624058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-84,870627110; A021B7B5F988,-78,870627242; C0C1C0C0C307,-90,870627027; C0C1C0C0C308,-88,870627029
+7114 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+7114 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+7114 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+7114 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+7114 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+7114 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+7114 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+7114 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 9 aps scanned, 0 aps remained after filtering
+7114 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+7114 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+7114 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+7114 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+7114 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+7114 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] 6506 ms elapsed, 7 scans completed in one shot mode
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+7114 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+7114 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [14] against last reported iteration [-1] and last reported cell-only iteration [-1]
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+7114 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 500
+7114 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -2 (elapsed was 498)
+7114 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+7114 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+7114 144668 WPS_periodic_scan [DEBUG] sleeping for 502 ms...
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 6
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -90 514ms (129987976081142618 2433793380377)
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -86 541ms (129987976080872602 1325691241727)
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -78 309ms (129987976083192735 27945471360)
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -83 460ms (129987976081682649 804129809875)
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00183A442F82 () g (erp) -90 511ms (129987976081172619 2433793434190)
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -87 535ms (129987976080932606 1325691248534)
+7176 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 6
+7176 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+7628 144668 WPS_periodic_scan [DEBUG] timeout expired
+7628 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+7628 144668 WPS_periodic_scan [DEBUG] it is time to sample
+7628 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+7628 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+7628 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+7628 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 7612ms
+7628 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+7628 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 6: 00120E75E3C8,-90,870628055; C0C1C0C0C307,-86,870628028; A021B7B5F988,-78,870628260; 90B1349F56B0,-83,870628109; 00183A442F82,-90,870628058; C0C1C0C0C308,-87,870628034
+7628 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 6: 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+7628 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 6: 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+7628 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+7628 144668 WPS_periodic_scan [DEBUG] elapsed = 7612, duration = 10000
+7628 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 15
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 8
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 9: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+7628 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 15, 8 scans completed)
+7628 144668 WPS.API.MeasurementCache [DEBUG] searching...
+7628 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+7628 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+7628 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+7628 144668 WPS.API.MeasurementCache [DEBUG] search failed
+7628 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+7628 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+7628 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+7628 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 7 scans completed
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+7628 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+7628 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 9 APs (new): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+7628 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+7628 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+7628 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+7628 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+7628 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+7628 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+7628 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+7628 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 9 aps scanned, 6 aps remained after filtering
+7628 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+7628 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+7628 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+7628 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 6, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+7628 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+7628 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+7628 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+7628 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+7628 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] 7020 ms elapsed, 7 scans completed in one shot mode
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+7628 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+7628 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [15] against last reported iteration [-1] and last reported cell-only iteration [-1]
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+7628 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 514
+7628 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 12 (elapsed was 512)
+7628 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -112
+7628 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+7628 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+7628 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+7628 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+7628 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+7628 144668 WPS_periodic_scan [DEBUG] sleeping for 488 ms...
+8112 144668 WPS_periodic_scan [DEBUG] timeout expired
+8112 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+8112 144668 WPS_periodic_scan [DEBUG] it is time to sample
+8112 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+8112 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+8112 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+8112 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 8096ms
+8112 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+8112 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 6: 00120E75E3C8,-90,870628055; C0C1C0C0C307,-86,870628028; A021B7B5F988,-78,870628260; 90B1349F56B0,-83,870628109; 00183A442F82,-90,870628058; C0C1C0C0C308,-87,870628034
+8112 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 6: 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+8112 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 6: 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+8112 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+8112 144668 WPS_periodic_scan [DEBUG] elapsed = 8096, duration = 10000
+8112 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 16
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 8
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 9: 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+8112 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 16, 8 scans completed)
+8112 144668 WPS.API.MeasurementCache [DEBUG] searching...
+8112 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+8112 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+8112 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+8112 144668 WPS.API.MeasurementCache [DEBUG] search failed
+8112 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+8112 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+8112 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 8 scans completed
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+8112 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+8112 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 9 APs (cached): 00120E23DC17,-90,870625068; 00120E75E3C8,-90,870628055; 00183A442F82,-90,870628058; 08863B28803C,-85,870625265; 20E564062470,-89,870626128; 90B1349F56B0,-83,870628109; A021B7B5F988,-78,870628260; C0C1C0C0C307,-86,870628028; C0C1C0C0C308,-87,870628034
+8112 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+8112 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+8112 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+8112 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+8112 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+8112 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+8112 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+8112 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 9 aps scanned, 0 aps remained after filtering
+8112 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+8112 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+8112 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+8112 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+8112 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+8112 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] 7504 ms elapsed, 8 scans completed in one shot mode
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+8112 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+8112 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [16] against last reported iteration [-1] and last reported cell-only iteration [-1]
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 484
+8112 144668 WPS.API.PeriodicLocationCallback [DEBUG] not passing error to user before a period elapsed
+8112 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -4 (elapsed was 496)
+8112 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+8112 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+8112 144668 WPS_periodic_scan [DEBUG] sleeping for 504 ms...
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 8
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -88 526ms (129987976091083186 1325692263188)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -77 482ms (129987976091523211 27946214451)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -89 514ms (129987976091203193 2433794385797)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C7 (WEST7603) g (erp) -89 502ms (129987976091323200 345190605369)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00183A442F82 () g (erp) -90 494ms (129987976091403205 2433794458190)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 08863B28803C (tatertot kasseroll) n (ht) -81 521ms (129987976091133189 7204783923629)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -89 528ms (129987976091063185 1325692260904)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -83 153ms (129987976094813400 804131123587)
+8174 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 8
+8174 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+8611 144668 WPS_periodic_scan [DEBUG] timeout expired
+8611 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+8611 144668 WPS_periodic_scan [DEBUG] it is time to sample
+8611 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+8611 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+8611 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+8611 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 8595ms
+8611 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+8611 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 8: C0C1C0C0C308,-88,870629041; A021B7B5F988,-77,870629085; 00120E75E3C8,-89,870629053; 00120E75E3C7,-89,870629065; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; C0C1C0C0C307,-89,870629039; 90B1349F56B0,-83,870629414
+8611 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 8: 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+8611 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 8: 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+8611 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+8611 144668 WPS_periodic_scan [DEBUG] elapsed = 8595, duration = 10000
+8611 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 17
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 9
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 10: 00120E23DC17,-90,870625068; 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 20E564062470,-89,870626128; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+8611 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 17, 9 scans completed)
+8611 144668 WPS.API.MeasurementCache [DEBUG] searching...
+8611 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+8611 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+8611 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+8611 144668 WPS.API.MeasurementCache [DEBUG] search failed
+8611 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+8611 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+8611 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+8611 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 8 scans completed
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+8611 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+8611 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 10 APs (new): 00120E23DC17,-90,870625068; 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 20E564062470,-89,870626128; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+8611 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+8611 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+8611 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+8611 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+8611 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+8611 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+8611 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+8611 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 10 aps scanned, 8 aps remained after filtering
+8611 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+8611 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+8611 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+8611 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 8, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+8611 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+8611 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+8611 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+8611 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+8611 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] 8003 ms elapsed, 8 scans completed in one shot mode
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+8611 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+8611 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [17] against last reported iteration [-1] and last reported cell-only iteration [-1]
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+8611 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 983
+8611 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -5 (elapsed was 495)
+8611 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -95
+8611 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+8611 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+8611 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+8611 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+8611 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+8611 144668 WPS_periodic_scan [DEBUG] sleeping for 505 ms...
+9126 144668 WPS_periodic_scan [DEBUG] timeout expired
+9126 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+9126 144668 WPS_periodic_scan [DEBUG] it is time to sample
+9126 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+9126 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+9126 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+9126 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 9110ms
+9126 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+9126 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 8: C0C1C0C0C308,-88,870629041; A021B7B5F988,-77,870629085; 00120E75E3C8,-89,870629053; 00120E75E3C7,-89,870629065; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; C0C1C0C0C307,-89,870629039; 90B1349F56B0,-83,870629414
+9126 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 8: 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+9126 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 8: 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+9126 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+9126 144668 WPS_periodic_scan [DEBUG] elapsed = 9110, duration = 10000
+9126 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 18
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 9
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 9: 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 20E564062470,-89,870626128; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+9126 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 18, 9 scans completed)
+9126 144668 WPS.API.MeasurementCache [DEBUG] searching...
+9126 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+9126 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+9126 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+9126 144668 WPS.API.MeasurementCache [DEBUG] search failed
+9126 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+9126 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not scheduling remote request
+9126 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 9 scans completed
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+9126 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+9126 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 9 APs (cached): 00120E75E3C7,-89,870629065; 00120E75E3C8,-89,870629053; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 20E564062470,-89,870626128; 90B1349F56B0,-83,870629414; A021B7B5F988,-77,870629085; C0C1C0C0C307,-89,870629039; C0C1C0C0C308,-88,870629041
+9126 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+9126 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+9126 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+9126 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+9126 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+9126 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+9126 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+9126 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 9 aps scanned, 0 aps remained after filtering
+9126 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+9126 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+9126 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 0)
+9126 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+9126 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+9126 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] 8518 ms elapsed, 9 scans completed in one shot mode
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+9126 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+9126 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [18] against last reported iteration [-1] and last reported cell-only iteration [-1]
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+9126 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 515
+9126 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of 10 (elapsed was 510)
+9126 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+9126 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+9126 144668 WPS_periodic_scan [DEBUG] sleeping for 490 ms...
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan completed (active)
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS retrieved is 6
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C308 (neenee-guest) n (ht) -87 529ms (129987976101003754 1325693255231)
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP C0C1C0C0C307 (neenee) n (ht) -87 531ms (129987976100983753 1325693252947)
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP A021B7B5F988 (mom land) n (ht) -80 467ms (129987976101623789 27947314560)
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 00120E75E3C8 (WEST7595) g (erp) -92 514ms (129987976101153762 2433795381144)
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 20E564062470 (ATT760) n (ht) -91 450ms (129987976101793799 2716774787)
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] scanned AP 90B1349F56B0 (ATT784) n (ht) -85 431ms (129987976101983810 804131840387)
+9173 143612 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] number of BSS returned is 6
+9173 143612 WPS.API.WifiAdapterWrapper [DEBUG] Wi-Fi scan complete (active)
+9610 144668 WPS_periodic_scan [DEBUG] timeout expired
+9610 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+9610 144668 WPS_periodic_scan [DEBUG] it is time to sample
+9610 144668 WPS.SPI.Win32.PowerStatus [DEBUG] ACLineStatus is AC_LINE_ONLINE, reporting EXTERNAL
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] power source was updated to EXTERNAL
+9610 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] enable Wi-Fi because on external power
+9610 144668 WPS.API.CellAdapterWrapper [WARN] couldn't find any Cell adapter
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] enable GPS because on external power
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] enable accelerometer
+9610 144668 WPS.SPI.Win32GPSAdapter [DEBUG] elapsed since the start of detection: 9594ms
+9610 144668 WPS.API.GPSAdapterWrapper [DEBUG] adapter is not ready
+9610 144668 WPS.API.WifiAdapterWrapper [DEBUG] total APs scanned 6: C0C1C0C0C308,-87,870630037; C0C1C0C0C307,-87,870630035; A021B7B5F988,-80,870630099; 00120E75E3C8,-92,870630052; 20E564062470,-91,870630116; 90B1349F56B0,-85,870630135
+9610 144668 WPS.API.WifiAdapterWrapper [INFO] unique APs scanned 6: 00120E75E3C8,-92,870630052; 20E564062470,-91,870630116; 90B1349F56B0,-85,870630135; A021B7B5F988,-80,870630099; C0C1C0C0C307,-87,870630035; C0C1C0C0C308,-87,870630037
+9610 144668 WPS.API.WifiAdapterWrapper [DEBUG] valid APs scanned 6: 00120E75E3C8,-92,870630052; 20E564062470,-91,870630116; 90B1349F56B0,-85,870630135; A021B7B5F988,-80,870630099; C0C1C0C0C307,-87,870630035; C0C1C0C0C308,-87,870630037
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] successful scan completed
+9610 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+9610 144668 WPS_periodic_scan [DEBUG] elapsed = 9594, duration = 10000
+9610 144668 WPS.API.OrganicGPS [DEBUG] no fixes to filter
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] scan iteration: 19
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] number of successful Wi-Fi scans that completed: 10
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated APs 9: 00120E75E3C7,-89,870629065; 00120E75E3C8,-92,870630052; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 20E564062470,-91,870630116; 90B1349F56B0,-85,870630135; A021B7B5F988,-80,870630099; C0C1C0C0C307,-87,870630035; C0C1C0C0C308,-87,870630037
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] accumulated cells 0: 
+9610 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to determine location remotely (iteration 19, 10 scans completed)
+9610 144668 WPS.API.MeasurementCache [DEBUG] searching...
+9610 144668 WPS.API.MeasurementCache [DEBUG] trying exact lookup...
+9610 144668 WPS.API.MeasurementCache [DEBUG] trying exact AP-only lookup
+9610 144668 WPS.API.MeasurementCache [DEBUG] trying partial AP-only lookup
+9610 144668 WPS.API.MeasurementCache [DEBUG] search failed
+9610 144668 WPS.API.PeriodicRemoteLocation [DEBUG] cache search result: 99, null location
+9610 144668 WPS.API.PeriodicRemoteLocation [DEBUG] no entry exists in the cache, chance to get a better location
+9610 144668 WPS.API.PeriodicRemoteLocation [DEBUG] scheduling remote request since a wifi scan completed
+9610 144668 WPS.API.PeriodicRemoteLocation [DEBUG] 9 scans completed
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] trying to determine location locally...
+9610 144668 WPS.API.LocationDeterminationLocal [INFO] tiling and local file paths not configured, locally determined wifi/cell fix will not be available
+9610 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 9 APs (new): 00120E75E3C7,-89,870629065; 00120E75E3C8,-92,870630052; 00183A442F82,-90,870629073; 08863B28803C,-81,870629046; 20E564062470,-91,870630116; 90B1349F56B0,-85,870630135; A021B7B5F988,-80,870630099; C0C1C0C0C307,-87,870630035; C0C1C0C0C308,-87,870630037
+9610 144668 WPS.API.LocationDeterminationLocal [DEBUG] scanned 0 cells: 
+9610 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 APs
+9610 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 user APs
+9610 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 venues
+9610 144668 WPS.API.LocationDeterminationLocal [DEBUG] located 0 cells
+9610 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] in one shot mode (accumulating scans)
+9610 144668 WPS.API.ScanObservation [DEBUG] not enough acceleration samples (0) in history
+9610 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] 9 aps scanned, 6 aps remained after filtering
+9610 144668 WPS.API.XPSSwitchingAlgorithm [DEBUG] venue mode OFF
+9610 144668 WPS.API.WPSAlgorithm [DEBUG] no located aps to calculate location
+9610 144668 WPS.API.TrackingPowerManager [DEBUG] updateState(isWifiConnected = 0, wifiScanCompleted = 1)
+9610 144668 WPS.API.TrackingPowerManager [DEBUG] adding to wps history: numScannedAPs = 6, nap = 0, hpe = 450, stationary = 0, count = 1, time = 0
+9610 144668 WPS.API.TrackingPowerManager [DEBUG] updateBothOn
+9610 144668 WPS.API.TrackingPowerManager [DEBUG] new state: wifi period = 4294967295ms, gps needed = 1
+9610 144668 WPS.API.StationarySmoothing [DEBUG] got no location
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] location request failed locally: 6
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] allow network requests
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] remote is needed because local failed
+9610 144668 WPS.API.PeriodicRemoteLocation [DEBUG] trying to start a remote request...
+9610 144668 WPS.API.PeriodicRemoteLocation [DEBUG] not starting a new request because we previously received a response of unauthorized
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] 9002 ms elapsed, 9 scans completed in one shot mode
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] latest result: code = 6, location = null location
+9610 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+9610 144668 WPS.API.PeriodicCallbackTracker [DEBUG] checking location iteration [19] against last reported iteration [-1] and last reported cell-only iteration [-1]
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] couldn't determine location: 6
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] elapsed since last callback: 484
+9610 144668 WPS.API.PeriodicLocationCallback [DEBUG] not passing error to user before a period elapsed
+9610 144668 WPS_periodic_scan [DEBUG] starting sample timer with initial elapsed of -6 (elapsed was 494)
+9610 144668 WPS.API.GeoFencing [DEBUG] no non-triggered geofences exist
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] external time between searches was updated from 4294967295 to 4294967295
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed was updated from 2147483647 to 2147483647
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] internal time until location needed is -1073741824
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] external time until location needed is 2147483647
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] time between searches is 500
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] current Wi-Fi period: 500
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] time until location needed is -1073741824
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] time to next Wi-Fi scan: -94
+9610 144668 WPS.API.PowerManagerWrapper [DEBUG] a Wi-Fi scan is needed
+9610 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+9610 144668 WPS.API.WifiAdapterWrapper [DEBUG] adapter is not connected, proceeding with a scan
+9610 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: interface is not connected
+9610 144668 WPS.SPI.WifiAdapter.WlanapiWifiAdapter [DEBUG] {9AB83D25-1158-41E9-88C6-E01DCE4AA7C6}: scan started...
+9610 144668 WPS_periodic_scan [DEBUG] sleeping for 506 ms...
+10124 144668 WPS_periodic_scan [DEBUG] timeout expired
+10124 144668 WPS_periodic_scan [DEBUG] period = 500, iterations = 20
+10124 144668 WPS_periodic_scan [DEBUG] breaking out because we are done
+10124 144668 WPS_periodic_scan [DEBUG] elapsed = 10108 > duration = 10000
+10124 144668 WPS_periodic_scan [DEBUG] stopping
+10124 144668 WPS.API.GPSAdapterWrapper [DEBUG] closing GPS adapter
+10124 144668 WPS.API.WifiAdapterWrapper [DEBUG] closing Wi-Fi adapter
+10124 144668 WPS.API.PeriodicRemoteLocation [DEBUG] aborting pending requests
+577 2856 WPS_version [INFO] 4.7.0.11 ($Rev: 11200 $)

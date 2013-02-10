@@ -1,0 +1,70 @@
+/* Landscape-specific CSS */
+/*@media all and (max-width: 480px) and (min-width: 321px) { 
+	
+	.map {
+		
+		height: 320px;
+		
+		width: 480px;
+		
+	}
+	
+}
+
+/* Portrait-specific CSS */
+/*@media all and (max-width: 320px) {
+    
+	.map {
+		
+		height: 480px;
+		
+		width: 340px;
+		
+	}
+	
+}*/
+
+body {
+	background: #333333;
+	color: #2a3333;
+	font: 12px/1.5 Verdana, sans-serif;
+	height: 100%;
+	position: absolute;
+	width: 100%;
+	/* padding-top:6.5em; */
+}
+
+html { /*background: #fff url('../img/cubes.png') repeat 0 0;*/ margin: 0; }*/
+
+h1, h2, h3, h4, h5, h6 { margin: 0 0 0.5em 0; font-size: 1em; }
+h1 { font-size: 1.5em; margin-top: 0; }
+h2 { font-size: 1.2em; }
+h3 { font-size: 1.1em; }
+a:link, a:focus, a:visited { color: #008595; text-decoration: none; }
+a:hover { text-decoration: underline; }
+p { margin: 0 0 1em; }
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+.iphone-standalone body {
+	padding-top: 20px;
+}
+
+/** General */
+.content { padding:1.5em; margin:0 0 1.5em; }
+.dark { background:#2a3333; }
+.light { background:#fff; }
+.hl { color: #ee2c74; }
+.buttonize { cursor:pointer; text-shadow: 1px 1px 1px #222; font-weight:bold; color:#fff; padding: 5px 1em; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; -khtml-border-radius: 8px; background: -webkit-gradient(linear, left top, left bottom, from(#008595), to(#02748c)); background: -moz-linear-gradient(top, #008595, #02748c); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#008595, endColorstr=#02748c); -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#008595, endColorstr=#02748c)";}
+.buttonize a:hover { text-decoration: none; }
+.gradient { background:#fff; background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eaeaea)); background: -moz-linear-gradient(top, #fff, #eaeaea); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#eaeaea); -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#eaeaea)"; }
+.map { background: #fff url('../img/cubes.png') repeat 0 0; margin: 0; width: 100%; height:100%; }
+.streetview { width:100%; height: 480px; }
+.lt { float:left; }
+.rt { float:right; }
+.clear { clear:both; }
+.hidden { display:none; }
+.txt-shadow-w { text-shadow: 1px 1px 1px #fff; }
+.txt-shadow-b { text-shadow: 1px 1px 1px #222; }
+.rounded { border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; -khtml-border-radius: 8px; }
+.shadow { -moz-box-shadow: 0px 2px 4px #999; -webkit-box-shadow: 0px 2px 4px #999; box-shadow: 0px 2px 4px #999; }
+.item { padding:1em; margin:0 0 2em; }
